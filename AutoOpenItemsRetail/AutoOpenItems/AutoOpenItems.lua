@@ -115,7 +115,6 @@ local Whitelist = {
 	[19154]			= true,			-- Outrider Basic Care Package
 	[19155]			= true,			-- Outrider Standard Care Package
 	[11912]			= true,			-- Package of Empty Ooze Containers
-	[9276]			= true,			-- Pirate's Footlocker
 	[22155]			= true,			-- Pledge of Adoration: Darnassus
 	[22154]			= true,			-- Pledge of Adoration: Ironforge
 	[21975]			= true,			-- Pledge of Adoration: Stormwind
