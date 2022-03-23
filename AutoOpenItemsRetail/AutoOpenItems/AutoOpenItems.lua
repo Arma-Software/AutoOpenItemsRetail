@@ -255,6 +255,7 @@ local Whitelist = {
 	[45724]			= true,			-- Champion's Purse
 	[39883]			= true,			-- Cracked Egg
 	[34871]			= true,			-- Crafty's Sack
+	[36781]			= true,			-- Darkwater Clam
 	[50161]			= true,			-- Dinner Suit Box
 	[54537]			= true,			-- Heart-Shaped Box
 	[44751]			= true,			-- Hyldnir Spoils
@@ -294,6 +295,7 @@ local Whitelist = {
 
 	-- Cataclysm
 
+	[52340]			= true,			-- Abyssal Clam
 	[69886]			= true,			-- Bag of Coins
 	[67414]			= true,			-- Bag of Shiny Things
 	[62062]			= true,			-- Bulging Sack of Gold
