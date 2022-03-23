@@ -1,4 +1,4 @@
-## Interface: 902000
+## Interface: 900200
 ## Title: AutoOpenItems
 ## Notes: Automatically open the things you loot.
 ## Author: Glofuss & Gogo
